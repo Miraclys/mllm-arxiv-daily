@@ -1,14 +1,17 @@
----
-layout: default
----
-
 ## Updated on 2025.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#mllm>mllm</a></li>
+  </ol>
+</details>
+
 ## mllm
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2025-03-19**|**Visual Position Prompt for MLLM based Visual Grounding**|Wei Tang et.al.|[2503.15426](http://arxiv.org/abs/2503.15426)|null|
 |**2025-03-19**|**LEGION: Learning to Ground and Explain for Synthetic Image Detection**|Hengrui Kang et.al.|[2503.15264](http://arxiv.org/abs/2503.15264)|null|
 |**2025-03-19**|**Benchmarking Large Language Models for Handwritten Text Recognition**|Giorgia Crosilla et.al.|[2503.15195](http://arxiv.org/abs/2503.15195)|null|
@@ -209,6 +212,8 @@ layout: default
 |**2025-02-17**|**EssayJudge: A Multi-Granular Benchmark for Assessing Automated Essay Scoring Capabilities of Multimodal Large Language Models**|Jiamin Su et.al.|[2502.11916](http://arxiv.org/abs/2502.11916)|null|
 |**2025-03-08**|**MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation**|Haochen Xue et.al.|[2502.11903](http://arxiv.org/abs/2502.11903)|null|
 |**2025-02-17**|**Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities**|Hanbin Wang et.al.|[2502.11829](http://arxiv.org/abs/2502.11829)|**[link](https://github.com/wanghanbinpanda/codevision)**|
+
+<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/mllm-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/mllm-arxiv-daily/graphs/contributors
