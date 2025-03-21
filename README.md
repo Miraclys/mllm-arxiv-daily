@@ -1,4 +1,4 @@
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,7 @@
 |---|---|---|---|---|
 |**2025-03-19**|**Visual Position Prompt for MLLM based Visual Grounding**|Wei Tang et.al.|[2503.15426](http://arxiv.org/abs/2503.15426)|null|
 |**2025-03-19**|**LEGION: Learning to Ground and Explain for Synthetic Image Detection**|Hengrui Kang et.al.|[2503.15264](http://arxiv.org/abs/2503.15264)|null|
-|**2025-03-19**|**Benchmarking Large Language Models for Handwritten Text Recognition**|Giorgia Crosilla et.al.|[2503.15195](http://arxiv.org/abs/2503.15195)|null|
+|**2025-03-20**|**Benchmarking Large Language Models for Handwritten Text Recognition**|Giorgia Crosilla et.al.|[2503.15195](http://arxiv.org/abs/2503.15195)|null|
 |**2025-03-19**|**UPME: An Unsupervised Peer Review Framework for Multimodal Large Language Model Evaluation**|Qihui Zhang et.al.|[2503.14941](http://arxiv.org/abs/2503.14941)|null|
 |**2025-03-19**|**VisNumBench: Evaluating Number Sense of Multimodal Large Language Models**|Tengjin Weng et.al.|[2503.14939](http://arxiv.org/abs/2503.14939)|null|
 |**2025-03-19**|**FAVOR-Bench: A Comprehensive Benchmark for Fine-Grained Video Motion Understanding**|Chongjun Tu et.al.|[2503.14935](http://arxiv.org/abs/2503.14935)|null|
@@ -22,9 +22,9 @@
 |**2025-03-19**|**Mitigating Object Hallucinations in MLLMs via Multi-Frequency Perturbations**|Shuo Li et.al.|[2503.14895](http://arxiv.org/abs/2503.14895)|null|
 |**2025-03-18**|**Image Captioning Evaluation in the Age of Multimodal LLMs: Challenges and Future Perspectives**|Sara Sarto et.al.|[2503.14604](http://arxiv.org/abs/2503.14604)|null|
 |**2025-03-18**|**Aligning Multimodal LLM with Human Preference: A Survey**|Tao Yu et.al.|[2503.14504](http://arxiv.org/abs/2503.14504)|null|
-|**2025-03-19**|**Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM**|Xinyu Fang et.al.|[2503.14478](http://arxiv.org/abs/2503.14478)|null|
-|**2025-03-18**|**VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
-|**2025-03-19**|**DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**|Wei Song et.al.|[2503.14324](http://arxiv.org/abs/2503.14324)|null|
+|**2025-03-19**|**Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM**|Xinyu Fang et.al.|[2503.14478](http://arxiv.org/abs/2503.14478)|**[link](https://github.com/open-compass/creation-mmbench)**|
+|**2025-03-19**|**VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
+|**2025-03-19**|**DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**|Wei Song et.al.|[2503.14324](http://arxiv.org/abs/2503.14324)|**[link](https://github.com/songweii/dualtoken)**|
 |**2025-03-18**|**Towards Harmless Multimodal Assistants with Blind Preference Optimization**|Yongqi Li et.al.|[2503.14189](http://arxiv.org/abs/2503.14189)|null|
 |**2025-03-18**|**Marten: Visual Question Answering with Mask Generation for Multi-modal Document Understanding**|Zining Wang et.al.|[2503.14140](http://arxiv.org/abs/2503.14140)|null|
 |**2025-03-18**|**MP-GUI: Modality Perception with MLLMs for GUI Understanding**|Ziwei Wang et.al.|[2503.14021](http://arxiv.org/abs/2503.14021)|null|
@@ -32,7 +32,7 @@
 |**2025-03-18**|**Survey of Adversarial Robustness in Multimodal Large Language Models**|Chengze Jiang et.al.|[2503.13962](http://arxiv.org/abs/2503.13962)|null|
 |**2025-03-18**|**Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation**|Sayak Nag et.al.|[2503.13947](http://arxiv.org/abs/2503.13947)|null|
 |**2025-03-18**|**LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation**|Yang Zhou et.al.|[2503.13794](http://arxiv.org/abs/2503.13794)|null|
-|**2025-03-17**|**Omnia de EgoTempo: Benchmarking Temporal Understanding of Multi-Modal LLMs in Egocentric Videos**|Chiara Plizzari et.al.|[2503.13646](http://arxiv.org/abs/2503.13646)|null|
+|**2025-03-17**|**Omnia de EgoTempo: Benchmarking Temporal Understanding of Multi-Modal LLMs in Egocentric Videos**|Chiara Plizzari et.al.|[2503.13646](http://arxiv.org/abs/2503.13646)|**[link](https://github.com/google-research-datasets/egotempo)**|
 |**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399](http://arxiv.org/abs/2503.13399)|null|
 |**2025-03-17**|**Cream of the Crop: Harvesting Rich, Scalable and Transferable Multi-Modal Data for Instruction Fine-Tuning**|Mengyao Lyu et.al.|[2503.13383](http://arxiv.org/abs/2503.13383)|null|
 |**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360](http://arxiv.org/abs/2503.13360)|null|
@@ -46,10 +46,10 @@
 |**2025-03-17**|**R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization**|Jingyi Zhang et.al.|[2503.12937](http://arxiv.org/abs/2503.12937)|null|
 |**2025-03-17**|**GuideDog: A Real-World Egocentric Multimodal Dataset for Blind and Low-Vision Accessibility-Aware Guidance**|Junhyeok Kim et.al.|[2503.12844](http://arxiv.org/abs/2503.12844)|null|
 |**2025-03-17**|**Grounded Chain-of-Thought for Multimodal Large Language Models**|Qiong Wu et.al.|[2503.12799](http://arxiv.org/abs/2503.12799)|null|
-|**2025-03-18**|**DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**|Xinyu Ma et.al.|[2503.12797](http://arxiv.org/abs/2503.12797)|null|
+|**2025-03-18**|**DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**|Xinyu Ma et.al.|[2503.12797](http://arxiv.org/abs/2503.12797)|**[link](https://github.com/thunlp/deepperception)**|
 |**2025-03-17**|**NuPlanQA: A Large-Scale Dataset and Benchmark for Multi-View Driving Scene Understanding in Multi-Modal Large Language Models**|Sung-Yeon Park et.al.|[2503.12772](http://arxiv.org/abs/2503.12772)|null|
-|**2025-03-16**|**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**|Yaoting Wang et.al.|[2503.12605](http://arxiv.org/abs/2503.12605)|null|
-|**2025-03-16**|**AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding**|Xiao Wang et.al.|[2503.12559](http://arxiv.org/abs/2503.12559)|null|
+|**2025-03-16**|**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**|Yaoting Wang et.al.|[2503.12605](http://arxiv.org/abs/2503.12605)|**[link](https://github.com/yaotingwangofficial/awesome-mcot)**|
+|**2025-03-16**|**AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding**|Xiao Wang et.al.|[2503.12559](http://arxiv.org/abs/2503.12559)|**[link](https://github.com/sczwangxiao/video-flexreduc)**|
 |**2025-03-16**|**PEBench: A Fictitious Dataset to Benchmark Machine Unlearning for Multimodal Large Language Models**|Zhaopan Xu et.al.|[2503.12545](http://arxiv.org/abs/2503.12545)|null|
 |**2025-03-16**|**ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos**|Peiran Wu et.al.|[2503.12542](http://arxiv.org/abs/2503.12542)|null|
 |**2025-03-16**|**BREEN: Bridge Data-Efficient Encoder-Free Multimodal Learning with Learnable Queries**|Tianle Li et.al.|[2503.12446](http://arxiv.org/abs/2503.12446)|null|
@@ -57,11 +57,11 @@
 |**2025-03-15**|**V-Stylist: Video Stylization via Collaboration and Reflection of MLLM Agents**|Zhengrong Yue et.al.|[2503.12077](http://arxiv.org/abs/2503.12077)|null|
 |**2025-03-14**|**VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity**|Jing Bi et.al.|[2503.11557](http://arxiv.org/abs/2503.11557)|null|
 |**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400](http://arxiv.org/abs/2503.11400)|null|
-|**2025-03-17**|**Cornstarch: Distributed Multimodal Training Must Be Multimodality-Aware**|Insu Jang et.al.|[2503.11367](http://arxiv.org/abs/2503.11367)|null|
-|**2025-03-14**|**Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**|Weichen Zhan et.al.|[2503.11094](http://arxiv.org/abs/2503.11094)|null|
+|**2025-03-17**|**Cornstarch: Distributed Multimodal Training Must Be Multimodality-Aware**|Insu Jang et.al.|[2503.11367](http://arxiv.org/abs/2503.11367)|**[link](https://github.com/cornstarch-org/cornstarch)**|
+|**2025-03-14**|**Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**|Weichen Zhan et.al.|[2503.11094](http://arxiv.org/abs/2503.11094)|**[link](https://github.com/weichenzh/open3dvqa)**|
 |**2025-03-14**|**EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks**|Yi Zhang et.al.|[2503.11089](http://arxiv.org/abs/2503.11089)|null|
 |**2025-03-14**|**BannerAgency: Advertising Banner Design with Multimodal LLM Agents**|Heng Wang et.al.|[2503.11060](http://arxiv.org/abs/2503.11060)|null|
-|**2025-03-14**|**RONA: Pragmatically Diverse Image Captioning with Coherence Relations**|Aashish Anantha Ramakrishnan et.al.|[2503.10997](http://arxiv.org/abs/2503.10997)|null|
+|**2025-03-14**|**RONA: Pragmatically Diverse Image Captioning with Coherence Relations**|Aashish Anantha Ramakrishnan et.al.|[2503.10997](http://arxiv.org/abs/2503.10997)|**[link](https://github.com/aashish2000/rona)**|
 |**2025-03-17**|**Learning to Inference Adaptively for Multimodal Large Language Models**|Zhuoyan Xu et.al.|[2503.10905](http://arxiv.org/abs/2503.10905)|null|
 |**2025-03-12**|**Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation**|Qiji Zhou et.al.|[2503.10691](http://arxiv.org/abs/2503.10691)|null|
 |**2025-03-13**|**PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models**|Zilu Guo et.al.|[2503.10529](http://arxiv.org/abs/2503.10529)|null|
@@ -102,7 +102,7 @@
 |**2025-03-10**|**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**|Wenzhuo Xu et.al.|[2503.06989](http://arxiv.org/abs/2503.06989)|null|
 |**2025-03-10**|**Lightweight Multimodal Artificial Intelligence Framework for Maritime Multi-Scene Recognition**|Xinyu Xi et.al.|[2503.06978](http://arxiv.org/abs/2503.06978)|null|
 |**2025-03-10**|**ProBench: Judging Multimodal Foundation Models on Open-ended Multi-domain Expert Tasks**|Yan Yang et.al.|[2503.06885](http://arxiv.org/abs/2503.06885)|null|
-|**2025-03-19**|**SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation**|Zisheng Chen et.al.|[2503.06764](http://arxiv.org/abs/2503.06764)|null|
+|**2025-03-20**|**SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation**|Zisheng Chen et.al.|[2503.06764](http://arxiv.org/abs/2503.06764)|null|
 |**2025-03-11**|**Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**|Wenxuan Huang et.al.|[2503.06749](http://arxiv.org/abs/2503.06749)|**[link](https://github.com/hiyouga/easyr1)**|
 |**2025-03-09**|**ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges**|Jiaxin Ai et.al.|[2503.06553](http://arxiv.org/abs/2503.06553)|null|
 |**2025-03-09**|**ARMOR v0.1: Empowering Autoregressive Multimodal Understanding Model with Interleaved Multimodal Generation via Asymmetric Synergy**|Jianwen Sun et.al.|[2503.06542](http://arxiv.org/abs/2503.06542)|null|
@@ -183,7 +183,7 @@
 |**2025-02-23**|**M4SC: An MLLM-based Multi-modal, Multi-task and Multi-user Semantic Communication System**|Feibo Jiang et.al.|[2502.16418](http://arxiv.org/abs/2502.16418)|null|
 |**2025-03-04**|**Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models**|Qianqi Yan et.al.|[2502.16033](http://arxiv.org/abs/2502.16033)|null|
 |**2025-03-11**|**Forgotten Polygons: Multimodal Large Language Models are Shape-Blind**|William Rudman et.al.|[2502.15969](http://arxiv.org/abs/2502.15969)|**[link](https://github.com/rsinghlab/shape-blind)**|
-|**2025-02-21**|**Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models**|Zheyuan Liu et.al.|[2502.15910](http://arxiv.org/abs/2502.15910)|null|
+|**2025-02-21**|**Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models**|Zheyuan Liu et.al.|[2502.15910](http://arxiv.org/abs/2502.15910)|**[link](https://github.com/franciscoliu/MANU)**|
 |**2025-02-21**|**Steering into New Embedding Spaces: Analyzing Cross-Lingual Alignment Induced by Model Interventions in Multilingual Language Models**|Anirudh Sundar et.al.|[2502.15639](http://arxiv.org/abs/2502.15639)|null|
 |**2025-02-21**|**Memory Helps, but Confabulation Misleads: Understanding Streaming Events in Videos with MLLMs**|Gengyuan Zhang et.al.|[2502.15457](http://arxiv.org/abs/2502.15457)|null|
 |**2025-02-21**|**M3-AGIQA: Multimodal, Multi-Round, Multi-Aspect AI-Generated Image Quality Assessment**|Chuan Cui et.al.|[2502.15167](http://arxiv.org/abs/2502.15167)|null|
@@ -213,7 +213,7 @@
 |**2025-03-08**|**MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation**|Haochen Xue et.al.|[2502.11903](http://arxiv.org/abs/2502.11903)|null|
 |**2025-02-17**|**Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities**|Hanbin Wang et.al.|[2502.11829](http://arxiv.org/abs/2502.11829)|**[link](https://github.com/wanghanbinpanda/codevision)**|
 
-<p align=right>(<a href=#updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/mllm-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/mllm-arxiv-daily/graphs/contributors
