@@ -1,4 +1,4 @@
-## Updated on 2025.03.21
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,13 +27,13 @@
 |**2025-03-19**|**DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**|Wei Song et.al.|[2503.14324](http://arxiv.org/abs/2503.14324)|**[link](https://github.com/songweii/dualtoken)**|
 |**2025-03-18**|**Towards Harmless Multimodal Assistants with Blind Preference Optimization**|Yongqi Li et.al.|[2503.14189](http://arxiv.org/abs/2503.14189)|null|
 |**2025-03-18**|**Marten: Visual Question Answering with Mask Generation for Multi-modal Document Understanding**|Zining Wang et.al.|[2503.14140](http://arxiv.org/abs/2503.14140)|null|
-|**2025-03-18**|**MP-GUI: Modality Perception with MLLMs for GUI Understanding**|Ziwei Wang et.al.|[2503.14021](http://arxiv.org/abs/2503.14021)|null|
+|**2025-03-18**|**MP-GUI: Modality Perception with MLLMs for GUI Understanding**|Ziwei Wang et.al.|[2503.14021](http://arxiv.org/abs/2503.14021)|**[link](https://github.com/BigTaige/MP-GUI)**|
 |**2025-03-18**|**SpaceVLLM: Endowing Multimodal Large Language Model with Spatio-Temporal Video Grounding Capability**|Jiankang Wang et.al.|[2503.13983](http://arxiv.org/abs/2503.13983)|null|
 |**2025-03-18**|**Survey of Adversarial Robustness in Multimodal Large Language Models**|Chengze Jiang et.al.|[2503.13962](http://arxiv.org/abs/2503.13962)|null|
 |**2025-03-18**|**Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation**|Sayak Nag et.al.|[2503.13947](http://arxiv.org/abs/2503.13947)|null|
 |**2025-03-18**|**LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation**|Yang Zhou et.al.|[2503.13794](http://arxiv.org/abs/2503.13794)|null|
 |**2025-03-17**|**Omnia de EgoTempo: Benchmarking Temporal Understanding of Multi-Modal LLMs in Egocentric Videos**|Chiara Plizzari et.al.|[2503.13646](http://arxiv.org/abs/2503.13646)|**[link](https://github.com/google-research-datasets/egotempo)**|
-|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399](http://arxiv.org/abs/2503.13399)|null|
+|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399](http://arxiv.org/abs/2503.13399)|**[link](https://github.com/jmhb0/microvqa)**|
 |**2025-03-17**|**Cream of the Crop: Harvesting Rich, Scalable and Transferable Multi-Modal Data for Instruction Fine-Tuning**|Mengyao Lyu et.al.|[2503.13383](http://arxiv.org/abs/2503.13383)|null|
 |**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360](http://arxiv.org/abs/2503.13360)|null|
 |**2025-03-17**|**3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o**|Dingning Liu et.al.|[2503.13185](http://arxiv.org/abs/2503.13185)|null|
@@ -77,7 +77,7 @@
 |**2025-03-13**|**How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game**|Ziyue Wang et.al.|[2503.10042](http://arxiv.org/abs/2503.10042)|**[link](https://github.com/THUNLP-MT/EscapeCraft)**|
 |**2025-03-13**|**Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification**|Jiayu Jiang et.al.|[2503.09962](http://arxiv.org/abs/2503.09962)|**[link](https://github.com/sssaury/ham)**|
 |**2025-03-13**|**UVE: Are MLLMs Unified Evaluators for AI-Generated Videos?**|Yuanxin Liu et.al.|[2503.09949](http://arxiv.org/abs/2503.09949)|**[link](https://github.com/bytedance/uve)**|
-|**2025-03-13**|**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**|Md Mohaiminul Islam et.al.|[2503.09590](http://arxiv.org/abs/2503.09590)|null|
+|**2025-03-13**|**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**|Md Mohaiminul Islam et.al.|[2503.09590](http://arxiv.org/abs/2503.09590)|**[link](https://github.com/md-mohaiminul/BIMBA)**|
 |**2025-03-12**|**Exo2Ego: Exocentric Knowledge Guided MLLM for Egocentric Video Understanding**|Haoyu Zhang et.al.|[2503.09143](http://arxiv.org/abs/2503.09143)|null|
 |**2025-03-11**|**Seeing What's Not There: Spurious Correlation in Multimodal LLMs**|Parsa Hosseini et.al.|[2503.08884](http://arxiv.org/abs/2503.08884)|null|
 |**2025-03-13**|**Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis**|Letian Zhang et.al.|[2503.08741](http://arxiv.org/abs/2503.08741)|null|
@@ -213,7 +213,7 @@
 |**2025-03-08**|**MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation**|Haochen Xue et.al.|[2502.11903](http://arxiv.org/abs/2502.11903)|null|
 |**2025-02-17**|**Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities**|Hanbin Wang et.al.|[2502.11829](http://arxiv.org/abs/2502.11829)|**[link](https://github.com/wanghanbinpanda/codevision)**|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/mllm-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/mllm-arxiv-daily/graphs/contributors
