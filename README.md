@@ -1,4 +1,4 @@
-## Updated on 2025.03.26
+## Updated on 2025.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,9 +12,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-24**|**LLaVAction: evaluating and training multi-modal large language models for action recognition**|Shaokai Ye et.al.|[2503.18712](http://arxiv.org/abs/2503.18712)|null|
+|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776](http://arxiv.org/abs/2503.21776)|**[link](https://github.com/tulerfeng/video-r1)**|
+|**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745](http://arxiv.org/abs/2503.21745)|null|
+|**2025-03-27**|**UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning**|Zhengxi Lu et.al.|[2503.21620](http://arxiv.org/abs/2503.21620)|null|
+|**2025-03-27**|**FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs**|Xiaoqin Wang et.al.|[2503.21457](http://arxiv.org/abs/2503.21457)|**[link](https://github.com/cvi-szu/facebench)**|
+|**2025-03-27**|**InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression**|Dongchen Lu et.al.|[2503.21307](http://arxiv.org/abs/2503.21307)|null|
+|**2025-03-26**|**ScreenLLM: Stateful Screen Schema for Efficient Action Understanding and Prediction**|Yiqiao Jin et.al.|[2503.20978](http://arxiv.org/abs/2503.20978)|null|
+|**2025-03-26**|**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**|Joonhyun Jeong et.al.|[2503.20823](http://arxiv.org/abs/2503.20823)|null|
+|**2025-03-26**|**MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams**|Yanpeng Sun et.al.|[2503.20745](http://arxiv.org/abs/2503.20745)|null|
+|**2025-03-26**|**Vision as LoRA**|Han Wang et.al.|[2503.20680](http://arxiv.org/abs/2503.20680)|null|
+|**2025-03-26**|**Beyond Intermediate States: Explaining Visual Redundancy through Language**|Dingchen Yang et.al.|[2503.20540](http://arxiv.org/abs/2503.20540)|null|
+|**2025-03-26**|**Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering**|Zehui Liao et.al.|[2503.20504](http://arxiv.org/abs/2503.20504)|null|
+|**2025-03-26**|**MLLM-Selector: Necessity and Diversity-driven High-Value Data Selection for Enhanced Visual Instruction Tuning**|Yiwei Ma et.al.|[2503.20502](http://arxiv.org/abs/2503.20502)|null|
+|**2025-03-26**|**From Trial to Triumph: Advancing Long Video Understanding via Visual Context Sample Scaling and Self-reward Alignment**|Yucheng Suo et.al.|[2503.20472](http://arxiv.org/abs/2503.20472)|null|
+|**2025-03-26**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Rongyu Zhang et.al.|[2503.20384](http://arxiv.org/abs/2503.20384)|null|
+|**2025-03-26**|**Dynamic Pyramid Network for Efficient Multimodal Large Language Model**|Hao Ai et.al.|[2503.20322](http://arxiv.org/abs/2503.20322)|null|
+|**2025-03-26**|**Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs**|Zitian Wang et.al.|[2503.20309](http://arxiv.org/abs/2503.20309)|null|
+|**2025-03-25**|**LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?**|Kexian Tang et.al.|[2503.19990](http://arxiv.org/abs/2503.19990)|null|
+|**2025-03-25**|**Scaling Vision Pre-Training to 4K Resolution**|Baifeng Shi et.al.|[2503.19903](http://arxiv.org/abs/2503.19903)|null|
+|**2025-03-25**|**DomainCQA: Crafting Expert-Level QA from Domain-Specific Charts**|Ling Zhong et.al.|[2503.19498](http://arxiv.org/abs/2503.19498)|null|
+|**2025-03-25**|**ImageGen-CoT: Enhancing Text-to-Image In-context Learning with Chain-of-Thought Reasoning**|Jiaqi Liao et.al.|[2503.19312](http://arxiv.org/abs/2503.19312)|null|
+|**2025-03-24**|**MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks**|Wenhao You et.al.|[2503.19134](http://arxiv.org/abs/2503.19134)|null|
+|**2025-03-21**|**MedAgent-Pro: Towards Multi-modal Evidence-based Medical Diagnosis via Reasoning Agentic Workflow**|Ziyue Wang et.al.|[2503.18968](http://arxiv.org/abs/2503.18968)|null|
+|**2025-03-24**|**LLaVAction: evaluating and training multi-modal large language models for action recognition**|Shaokai Ye et.al.|[2503.18712](http://arxiv.org/abs/2503.18712)|**[link](https://github.com/adaptivemotorcontrollab/llavaction)**|
 |**2025-03-25**|**Commander-GPT: Fully Unleashing the Sarcasm Detection Capability of Multi-Modal Large Language Models**|Yazhou Zhang et.al.|[2503.18681](http://arxiv.org/abs/2503.18681)|null|
-|**2025-03-24**|**Boosting Virtual Agent Learning and Reasoning: A Step-wise, Multi-dimensional, and Generalist Reward Model with Benchmark**|Bingchen Miao et.al.|[2503.18665](http://arxiv.org/abs/2503.18665)|null|
+|**2025-03-24**|**Boosting Virtual Agent Learning and Reasoning: A Step-wise, Multi-dimensional, and Generalist Reward Model with Benchmark**|Bingchen Miao et.al.|[2503.18665](http://arxiv.org/abs/2503.18665)|**[link](https://github.com/galery23/similar-v1)**|
 |**2025-03-24**|**Video-XL-Pro: Reconstructive Token Compression for Extremely Long Video Understanding**|Xiangrui Liu et.al.|[2503.18478](http://arxiv.org/abs/2503.18478)|null|
 |**2025-03-24**|**A Simple yet Effective Layout Token in Large Language Models for Document Understanding**|Zhaoqing Zhu et.al.|[2503.18434](http://arxiv.org/abs/2503.18434)|null|
 |**2025-03-23**|**Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering**|Zixin Chen et.al.|[2503.18172](http://arxiv.org/abs/2503.18172)|null|
@@ -71,9 +93,9 @@
 |**2025-03-17**|**Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning**|Yu-Hong Shen et.al.|[2503.13055](http://arxiv.org/abs/2503.13055)|null|
 |**2025-03-17**|**Efficient Motion-Aware Video MLLM**|Zijia Zhao et.al.|[2503.13016](http://arxiv.org/abs/2503.13016)|null|
 |**2025-03-17**|**HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Multimodal Large Language Model**|Haiyang Guo et.al.|[2503.12941](http://arxiv.org/abs/2503.12941)|null|
-|**2025-03-17**|**R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization**|Jingyi Zhang et.al.|[2503.12937](http://arxiv.org/abs/2503.12937)|null|
+|**2025-03-17**|**R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization**|Jingyi Zhang et.al.|[2503.12937](http://arxiv.org/abs/2503.12937)|**[link](https://github.com/jingyi0000/R1-VL)**|
 |**2025-03-17**|**GuideDog: A Real-World Egocentric Multimodal Dataset for Blind and Low-Vision Accessibility-Aware Guidance**|Junhyeok Kim et.al.|[2503.12844](http://arxiv.org/abs/2503.12844)|null|
-|**2025-03-24**|**Grounded Chain-of-Thought for Multimodal Large Language Models**|Qiong Wu et.al.|[2503.12799](http://arxiv.org/abs/2503.12799)|null|
+|**2025-03-24**|**Grounded Chain-of-Thought for Multimodal Large Language Models**|Qiong Wu et.al.|[2503.12799](http://arxiv.org/abs/2503.12799)|**[link](https://github.com/DoubtedSteam/MM-GCoT)**|
 |**2025-03-18**|**DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**|Xinyu Ma et.al.|[2503.12797](http://arxiv.org/abs/2503.12797)|**[link](https://github.com/thunlp/deepperception)**|
 |**2025-03-17**|**NuPlanQA: A Large-Scale Dataset and Benchmark for Multi-View Driving Scene Understanding in Multi-Modal Large Language Models**|Sung-Yeon Park et.al.|[2503.12772](http://arxiv.org/abs/2503.12772)|null|
 |**2025-03-23**|**Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**|Yaoting Wang et.al.|[2503.12605](http://arxiv.org/abs/2503.12605)|**[link](https://github.com/yaotingwangofficial/awesome-mcot)**|
@@ -108,7 +130,7 @@
 |**2025-03-13**|**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**|Md Mohaiminul Islam et.al.|[2503.09590](http://arxiv.org/abs/2503.09590)|**[link](https://github.com/md-mohaiminul/BIMBA)**|
 |**2025-03-12**|**Exo2Ego: Exocentric Knowledge Guided MLLM for Egocentric Video Understanding**|Haoyu Zhang et.al.|[2503.09143](http://arxiv.org/abs/2503.09143)|null|
 |**2025-03-11**|**Seeing What's Not There: Spurious Correlation in Multimodal LLMs**|Parsa Hosseini et.al.|[2503.08884](http://arxiv.org/abs/2503.08884)|null|
-|**2025-03-13**|**Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis**|Letian Zhang et.al.|[2503.08741](http://arxiv.org/abs/2503.08741)|null|
+|**2025-03-26**|**Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis**|Letian Zhang et.al.|[2503.08741](http://arxiv.org/abs/2503.08741)|**[link](https://github.com/Letian2003/MM_INF)**|
 |**2025-03-11**|**SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories**|Muzhi Zhu et.al.|[2503.08625](http://arxiv.org/abs/2503.08625)|null|
 |**2025-03-11**|**LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization**|Xianfeng Wu et.al.|[2503.08619](http://arxiv.org/abs/2503.08619)|**[link](https://github.com/xianfengwu01/lightgen)**|
 |**2025-03-11**|**HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding**|Shehreen Azad et.al.|[2503.08585](http://arxiv.org/abs/2503.08585)|null|
@@ -242,7 +264,7 @@
 |**2025-03-08**|**MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation**|Haochen Xue et.al.|[2502.11903](http://arxiv.org/abs/2502.11903)|null|
 |**2025-02-17**|**Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities**|Hanbin Wang et.al.|[2502.11829](http://arxiv.org/abs/2502.11829)|**[link](https://github.com/wanghanbinpanda/codevision)**|
 
-<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/mllm-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/mllm-arxiv-daily/graphs/contributors
