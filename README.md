@@ -1,4 +1,4 @@
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,9 +14,9 @@
 |---|---|---|---|---|
 |**2025-04-03**|**The Plot Thickens: Quantitative Part-by-Part Exploration of MLLM Visualization Literacy**|Matheus Valentim et.al.|[2504.02217](http://arxiv.org/abs/2504.02217)|null|
 |**2025-04-03**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
-|**2025-04-02**|**Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning**|Kun Ouyang et.al.|[2504.01805](http://arxiv.org/abs/2504.01805)|null|
+|**2025-04-02**|**Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning**|Kun Ouyang et.al.|[2504.01805](http://arxiv.org/abs/2504.01805)|**[link](https://github.com/ouyangkun10/spatial-r1)**|
 |**2025-04-02**|**PiCo: Jailbreaking Multimodal Large Language Models via $\textbf{Pi}$ctorial $\textbf{Co}$ de Contextualization**|Aofan Liu et.al.|[2504.01444](http://arxiv.org/abs/2504.01444)|null|
-|**2025-04-02**|**Slow-Fast Architecture for Video Multi-Modal Large Language Models**|Min Shi et.al.|[2504.01328](http://arxiv.org/abs/2504.01328)|null|
+|**2025-04-02**|**Slow-Fast Architecture for Video Multi-Modal Large Language Models**|Min Shi et.al.|[2504.01328](http://arxiv.org/abs/2504.01328)|**[link](https://github.com/shi-labs/slow-fast-video-multimodal-llm)**|
 |**2025-04-01**|**AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction**|Junhao Cheng et.al.|[2504.01014](http://arxiv.org/abs/2504.01014)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
 |**2025-04-02**|**Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning**|Ram Ramrakhya et.al.|[2504.00907](http://arxiv.org/abs/2504.00907)|null|
@@ -305,7 +305,7 @@
 |**2025-03-08**|**MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation**|Haochen Xue et.al.|[2502.11903](http://arxiv.org/abs/2502.11903)|null|
 |**2025-02-17**|**Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities**|Hanbin Wang et.al.|[2502.11829](http://arxiv.org/abs/2502.11829)|**[link](https://github.com/wanghanbinpanda/codevision)**|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/mllm-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/mllm-arxiv-daily/graphs/contributors
