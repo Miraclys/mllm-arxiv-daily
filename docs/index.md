@@ -2,13 +2,29 @@
 layout: default
 ---
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## mllm
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322](http://arxiv.org/abs/2505.01322)|null|
+|**2025-05-02**|**Efficient Vocabulary-Free Fine-Grained Visual Recognition in the Age of Multimodal LLMs**|Hari Chandana Kuchibhotla et.al.|[2505.01064](http://arxiv.org/abs/2505.01064)|null|
+|**2025-05-01**|**Multi-Modal Language Models as Text-to-Image Model Evaluators**|Jiahui Chen et.al.|[2505.00759](http://arxiv.org/abs/2505.00759)|null|
+|**2025-05-01**|**InstructAttribute: Fine-grained Object Attributes editing with Instruction**|Xingxi Yin et.al.|[2505.00751](http://arxiv.org/abs/2505.00751)|null|
+|**2025-04-30**|**Zoomer: Adaptive Image Focus Optimization for Black-box MLLM**|Jiaxu Qian et.al.|[2505.00742](http://arxiv.org/abs/2505.00742)|null|
+|**2025-04-30**|**Audo-Sight: Enabling Ambient Interaction For Blind And Visually Impaired Individuals**|Bhanuja Ainary et.al.|[2505.00153](http://arxiv.org/abs/2505.00153)|null|
+|**2025-04-30**|**GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling**|Siqi Li et.al.|[2505.00063](http://arxiv.org/abs/2505.00063)|null|
+|**2025-04-30**|**COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning**|Xindi Wu et.al.|[2504.21850](http://arxiv.org/abs/2504.21850)|null|
+|**2025-04-30**|**Visual Text Processing: A Comprehensive Review and Unified Evaluation**|Yan Shu et.al.|[2504.21682](http://arxiv.org/abs/2504.21682)|null|
+|**2025-04-30**|**Rethinking Visual Layer Selection in Multimodal LLMs**|Haoran Chen et.al.|[2504.21447](http://arxiv.org/abs/2504.21447)|null|
+|**2025-04-30**|**SeriesBench: A Benchmark for Narrative-Driven Drama Series Understanding**|Chenkai Zhang et.al.|[2504.21435](http://arxiv.org/abs/2504.21435)|null|
+|**2025-04-30**|**Nexus-Gen: A Unified Model for Image Understanding, Generation, and Editing**|Hong Zhang et.al.|[2504.21356](http://arxiv.org/abs/2504.21356)|null|
+|**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336](http://arxiv.org/abs/2504.21336)|null|
+|**2025-04-30**|**Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models**|Guanghao Zhou et.al.|[2504.21277](http://arxiv.org/abs/2504.21277)|null|
+|**2025-04-29**|**Multimodal Large Language Models for Medicine: A Comprehensive Survey**|Jiarui Ye et.al.|[2504.21051](http://arxiv.org/abs/2504.21051)|null|
+|**2025-04-28**|**Can a Large Language Model Assess Urban Design Quality? Evaluating Walkability Metrics Across Expertise Levels**|Chenyi Cai et.al.|[2504.21040](http://arxiv.org/abs/2504.21040)|null|
 |**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
 |**2025-04-29**|**A Summary on GUI Agents with Foundation Models Enhanced by Reinforcement Learning**|Jiahao Li et.al.|[2504.20464](http://arxiv.org/abs/2504.20464)|null|
 |**2025-04-28**|**CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback**|Chenhan Jiang et.al.|[2504.19860](http://arxiv.org/abs/2504.19860)|null|
