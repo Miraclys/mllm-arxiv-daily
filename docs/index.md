@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## mllm
@@ -247,7 +247,7 @@ layout: default
 |**2025-03-20**|**Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data**|Zijian Li et.al.|[2503.16260](http://arxiv.org/abs/2503.16260)|null|
 |**2025-04-15**|**Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tuning**|Ming Li et.al.|[2503.16188](http://arxiv.org/abs/2503.16188)|**[link](https://github.com/minglllli/CLS-RL)**|
 |**2025-03-28**|**OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning**|Zhiyuan Liu et.al.|[2503.16081](http://arxiv.org/abs/2503.16081)|null|
-|**2025-03-20**|**Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models**|Zhihang Liu et.al.|[2503.16036](http://arxiv.org/abs/2503.16036)|null|
+|**2025-03-20**|**Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models**|Zhihang Liu et.al.|[2503.16036](http://arxiv.org/abs/2503.16036)|**[link](https://github.com/lntzm/hicom)**|
 |**2025-03-20**|**BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**|Zenghui Yuan et.al.|[2503.16023](http://arxiv.org/abs/2503.16023)|null|
 |**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887](http://arxiv.org/abs/2503.15887)|null|
 |**2025-03-24**|**A Vision Centric Remote Sensing Benchmark**|Abduljaleel Adejumo et.al.|[2503.15816](http://arxiv.org/abs/2503.15816)|null|
