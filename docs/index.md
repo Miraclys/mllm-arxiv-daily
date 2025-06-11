@@ -2,13 +2,62 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## mllm
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
+|**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
+|**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|null|
+|**2025-06-09**|**SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence**|Ziyang Gong et.al.|[2506.07966](http://arxiv.org/abs/2506.07966)|null|
+|**2025-06-09**|**WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**|Jie Yang et.al.|[2506.07905](http://arxiv.org/abs/2506.07905)|null|
+|**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848](http://arxiv.org/abs/2506.07848)|null|
+|**2025-06-09**|**HAIBU-ReMUD: Reasoning Multimodal Ultrasound Dataset and Model Bridging to General Specific Domains**|Shijie Wang et.al.|[2506.07837](http://arxiv.org/abs/2506.07837)|null|
+|**2025-06-09**|**WebUIBench: A Comprehensive Benchmark for Evaluating Multimodal Large Language Models in WebUI-to-Code**|Zhiyu Lin et.al.|[2506.07818](http://arxiv.org/abs/2506.07818)|null|
+|**2025-06-09**|**Evaluating Visual Mathematics in Multimodal LLMs: A Multilingual Benchmark Based on the Kangaroo Tests**|Arnau Igualde Sáez et.al.|[2506.07418](http://arxiv.org/abs/2506.07418)|null|
+|**2025-06-08**|**Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**|Tianyi Bai et.al.|[2506.07235](http://arxiv.org/abs/2506.07235)|null|
+|**2025-06-08**|**Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning**|Tianyi Bai et.al.|[2506.07227](http://arxiv.org/abs/2506.07227)|null|
+|**2025-06-08**|**Advancing Multimodal Reasoning Capabilities of Multimodal Large Language Models via Visual Perception Reward**|Tong Xiao et.al.|[2506.07218](http://arxiv.org/abs/2506.07218)|null|
+|**2025-06-08**|**Reasoning Multimodal Large Language Model: Data Contamination and Dynamic Evaluation**|Ming Liu et.al.|[2506.07202](http://arxiv.org/abs/2506.07202)|null|
+|**2025-06-08**|**SAP-Bench: Benchmarking Multimodal Large Language Models in Surgical Action Planning**|Mengya Xu et.al.|[2506.07196](http://arxiv.org/abs/2506.07196)|null|
+|**2025-06-08**|**Dual-Priv Pruning : Efficient Differential Private Fine-Tuning in Multimodal Large Language Models**|Qianshan Wei et.al.|[2506.07077](http://arxiv.org/abs/2506.07077)|null|
+|**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045](http://arxiv.org/abs/2506.07045)|null|
+|**2025-06-10**|**Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning**|LASA Team et.al.|[2506.07044](http://arxiv.org/abs/2506.07044)|null|
+|**2025-06-08**|**Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment**|Pengfei Zhao et.al.|[2506.06970](http://arxiv.org/abs/2506.06970)|null|
+|**2025-06-07**|**Vision-EKIPL: External Knowledge-Infused Policy Learning for Visual Reasoning**|Chaoyang Wang et.al.|[2506.06856](http://arxiv.org/abs/2506.06856)|null|
+|**2025-06-07**|**Mitigating Object Hallucination via Robust Local Perception Search**|Zixian Gao et.al.|[2506.06729](http://arxiv.org/abs/2506.06729)|null|
+|**2025-06-06**|**Enhancing Robot Safety via MLLM-Based Semantic Interpretation of Failure Data**|Aryaman Gupta et.al.|[2506.06570](http://arxiv.org/abs/2506.06570)|null|
+|**2025-06-06**|**DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation**|Jingyu Xiao et.al.|[2506.06251](http://arxiv.org/abs/2506.06251)|null|
+|**2025-06-06**|**VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning**|Zikang Wang et.al.|[2506.06097](http://arxiv.org/abs/2506.06097)|null|
+|**2025-06-06**|**MATP-BENCH: Can MLLM Be a Good Automated Theorem Prover for Multimodal Problems?**|Zhitao He et.al.|[2506.06034](http://arxiv.org/abs/2506.06034)|null|
+|**2025-06-06**|**Object Navigation with Structure-Semantic Reasoning-Based Multi-level Map and Multimodal Decision-Making LLM**|Chongshang Yan et.al.|[2506.05896](http://arxiv.org/abs/2506.05896)|null|
+|**2025-06-06**|**Human-AI Alignment of Multimodal Large Language Models with Speech-Language Pathologists in Parent-Child Interactions**|Weiyan Shi et.al.|[2506.05879](http://arxiv.org/abs/2506.05879)|null|
+|**2025-06-09**|**Heartcare Suite: Multi-dimensional Understanding of ECG with Raw Multi-lead Signal Modeling**|Yihan Xie et.al.|[2506.05831](http://arxiv.org/abs/2506.05831)|null|
+|**2025-06-06**|**Pts3D-LLM: Studying the Impact of Token Structure for 3D Scene Understanding With Large Language Models**|Hugues Thomas et.al.|[2506.05689](http://arxiv.org/abs/2506.05689)|null|
+|**2025-06-05**|**MLLM-CL: Continual Learning for Multimodal Large Language Models**|Hongbo Zhao et.al.|[2506.05453](http://arxiv.org/abs/2506.05453)|null|
+|**2025-06-05**|**SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning**|Fanqi Kong et.al.|[2506.05425](http://arxiv.org/abs/2506.05425)|null|
+|**2025-06-03**|**Q-Ponder: A Unified Training Pipeline for Reasoning-based Visual Quality Assessment**|Zhuoxuan Cai et.al.|[2506.05384](http://arxiv.org/abs/2506.05384)|null|
+|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
+|**2025-06-05**|**AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs**|Lidong Lu et.al.|[2506.05328](http://arxiv.org/abs/2506.05328)|null|
+|**2025-06-05**|**EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?**|Yuqian Yuan et.al.|[2506.05287](http://arxiv.org/abs/2506.05287)|null|
+|**2025-06-05**|**MokA: Multimodal Low-Rank Adaptation for MLLMs**|Yake Wei et.al.|[2506.05191](http://arxiv.org/abs/2506.05191)|null|
+|**2025-06-05**|**On the Comprehensibility of Multi-structured Financial Documents using LLMs and Pre-processing Tools**|Shivani Upadhyay et.al.|[2506.05182](http://arxiv.org/abs/2506.05182)|null|
+|**2025-06-05**|**The NTNU System at the S&I Challenge 2025 SLA Open Track**|Hong-Yun Lin et.al.|[2506.05121](http://arxiv.org/abs/2506.05121)|null|
+|**2025-06-05**|**TextVidBench: A Benchmark for Long Video Scene Text Understanding**|Yangyang Zhong et.al.|[2506.04983](http://arxiv.org/abs/2506.04983)|null|
+|**2025-06-05**|**APVR: Hour-Level Long Video Understanding with Adaptive Pivot Visual Information Retrieval**|Hong Gao et.al.|[2506.04953](http://arxiv.org/abs/2506.04953)|null|
+|**2025-06-05**|**From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes**|Tianxu Wang et.al.|[2506.04897](http://arxiv.org/abs/2506.04897)|null|
+|**2025-06-05**|**Towards LLM-Centric Multimodal Fusion: A Survey on Integration Strategies and Techniques**|Jisu An et.al.|[2506.04788](http://arxiv.org/abs/2506.04788)|null|
+|**2025-06-05**|**Truth in the Few: High-Value Data Selection for Efficient Multi-Modal Reasoning**|Shenshen Li et.al.|[2506.04755](http://arxiv.org/abs/2506.04755)|**[link](https://github.com/leo-ssl/rap)**|
+|**2025-06-05**|**MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**|Gio Paik et.al.|[2506.04688](http://arxiv.org/abs/2506.04688)|null|
+|**2025-06-05**|**Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation**|Yuyang Wanyan et.al.|[2506.04614](http://arxiv.org/abs/2506.04614)|null|
+|**2025-06-05**|**From Standalone LLMs to Integrated Intelligence: A Survey of Compound Al Systems**|Jiayi Chen et.al.|[2506.04565](http://arxiv.org/abs/2506.04565)|null|
+|**2025-06-05**|**Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning**|Yunhao Gou et.al.|[2506.04559](http://arxiv.org/abs/2506.04559)|null|
+|**2025-06-04**|**AuthGuard: Generalizable Deepfake Detection via Language Guidance**|Guangyu Shen et.al.|[2506.04501](http://arxiv.org/abs/2506.04501)|null|
+|**2025-06-04**|**Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark**|Ziming Cheng et.al.|[2506.04280](http://arxiv.org/abs/2506.04280)|null|
+|**2025-06-04**|**RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought**|Yi Lu et.al.|[2506.04277](http://arxiv.org/abs/2506.04277)|null|
 |**2025-06-04**|**Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**|Shuang Chen et.al.|[2506.04207](http://arxiv.org/abs/2506.04207)|null|
 |**2025-06-04**|**MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos**|Kejian Zhu et.al.|[2506.04141](http://arxiv.org/abs/2506.04141)|null|
 |**2025-06-04**|**Multimodal Tabular Reasoning with Privileged Structured Information**|Jun-Peng Jiang et.al.|[2506.04088](http://arxiv.org/abs/2506.04088)|null|
@@ -16,7 +65,7 @@ layout: default
 |**2025-06-04**|**HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models**|Zhaolu Kang et.al.|[2506.03922](http://arxiv.org/abs/2506.03922)|null|
 |**2025-06-04**|**ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning**|Feng Han et.al.|[2506.03596](http://arxiv.org/abs/2506.03596)|null|
 |**2025-06-04**|**Resolving Task Objective Conflicts in Unified Multimodal Understanding and Generation via Task-Aware Mixture-of-Experts**|Jiaxing Zhang et.al.|[2506.03591](http://arxiv.org/abs/2506.03591)|null|
-|**2025-06-03**|**A Multimodal, Multilingual, and Multidimensional Pipeline for Fine-grained Crowdsourcing Earthquake Damage Evaluation**|Zihui Ma et.al.|[2506.03360](http://arxiv.org/abs/2506.03360)|null|
+|**2025-06-03**|**A Multimodal, Multilingual, and Multidimensional Pipeline for Fine-grained Crowdsourcing Earthquake Damage Evaluation**|Zihui Ma et.al.|[2506.03360](http://arxiv.org/abs/2506.03360)|**[link](https://github.com/missa7481/emnlp25_earthquake)**|
 |**2025-06-01**|**Unlabeled Data Improves Fine-Grained Image Zero-shot Classification with Multimodal LLMs**|Yunqi Hong et.al.|[2506.03195](http://arxiv.org/abs/2506.03195)|null|
 |**2025-05-31**|**HueManity: Probing Fine-Grained Visual Perception in MLLMs**|Rynaa Grover et.al.|[2506.03194](http://arxiv.org/abs/2506.03194)|null|
 |**2025-05-29**|**Vid-SME: Membership Inference Attacks against Large Video Understanding Models**|Qi Li et.al.|[2506.03179](http://arxiv.org/abs/2506.03179)|null|
@@ -66,21 +115,21 @@ layout: default
 |**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
 |**2025-06-05**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
 |**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|**[link](https://github.com/ceezh/silvr)**|
-|**2025-05-30**|**FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation**|Junyu Luo et.al.|[2505.24714](http://arxiv.org/abs/2505.24714)|null|
+|**2025-05-30**|**FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation**|Junyu Luo et.al.|[2505.24714](http://arxiv.org/abs/2505.24714)|**[link](https://github.com/luo-junyu/finmme)**|
 |**2025-05-30**|**Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors**|Duo Zheng et.al.|[2505.24625](http://arxiv.org/abs/2505.24625)|null|
 |**2025-05-30**|**Mixpert: Mitigating Multimodal Learning Conflicts with Efficient Mixture-of-Vision-Experts**|Xin He et.al.|[2505.24541](http://arxiv.org/abs/2505.24541)|null|
-|**2025-05-30**|**Period-LLM: Extending the Periodic Capability of Multimodal Large Language Model**|Yuting Zhang et.al.|[2505.24476](http://arxiv.org/abs/2505.24476)|null|
-|**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|null|
+|**2025-05-30**|**Period-LLM: Extending the Periodic Capability of Multimodal Large Language Model**|Yuting Zhang et.al.|[2505.24476](http://arxiv.org/abs/2505.24476)|**[link](https://github.com/keke-nice/period-llm)**|
+|**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|**[link](https://github.com/mcg-nju/sorce)**|
 |**2025-06-02**|**MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM**|Bowen Dong et.al.|[2505.24238](http://arxiv.org/abs/2505.24238)|null|
 |**2025-05-30**|**Benchmarking Foundation Models for Zero-Shot Biometric Tasks**|Redwan Sony et.al.|[2505.24214](http://arxiv.org/abs/2505.24214)|null|
 |**2025-05-30**|**Seeing is Not Reasoning: MVPBench for Graph-based Evaluation of Multi-path Visual Physical CoT**|Zhuobai Dong et.al.|[2505.24182](http://arxiv.org/abs/2505.24182)|**[link](https://github.com/CSU-JPG/MVPBench)**|
-|**2025-05-30**|**Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models**|Shilin Xu et.al.|[2505.24164](http://arxiv.org/abs/2505.24164)|null|
+|**2025-05-30**|**Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models**|Shilin Xu et.al.|[2505.24164](http://arxiv.org/abs/2505.24164)|**[link](https://github.com/xushilin1/mixed-r1)**|
 |**2025-05-30**|**Threading Keyframe with Narratives: MLLMs as Strong Long Video Comprehenders**|Bo Fang et.al.|[2505.24158](http://arxiv.org/abs/2505.24158)|null|
 |**2025-05-30**|**Don't Just Follow MLLM Plans: Robust and Efficient Planning for Open-world Agents**|Seungjoon Lee et.al.|[2505.24157](http://arxiv.org/abs/2505.24157)|null|
 |**2025-06-03**|**S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**|Yichen Xie et.al.|[2505.24139](http://arxiv.org/abs/2505.24139)|null|
 |**2025-05-30**|**AMSbench: A Comprehensive Benchmark for Evaluating MLLM Capabilities in AMS Circuits**|Yichen Shi et.al.|[2505.24138](http://arxiv.org/abs/2505.24138)|null|
 |**2025-05-29**|**InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback**|Boyuan Chen et.al.|[2505.23950](http://arxiv.org/abs/2505.23950)|null|
-|**2025-05-29**|**ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding**|David Ma et.al.|[2505.23922](http://arxiv.org/abs/2505.23922)|null|
+|**2025-05-29**|**ScaleLong: A Multi-Timescale Benchmark for Long Video Understanding**|David Ma et.al.|[2505.23922](http://arxiv.org/abs/2505.23922)|**[link](https://github.com/multimodal-art-projection/scalelong)**|
 |**2025-05-29**|**Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation**|Zeyu Liu et.al.|[2505.23867](http://arxiv.org/abs/2505.23867)|null|
 |**2025-05-29**|**OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Modalities**|Sahil Verma et.al.|[2505.23856](http://arxiv.org/abs/2505.23856)|**[link](https://github.com/vsahil/omniguard)**|
 |**2025-05-28**|**EvoMoE: Expert Evolution in Mixture of Experts for Multimodal Large Language Models**|Linglin Jing et.al.|[2505.23830](http://arxiv.org/abs/2505.23830)|null|
@@ -100,22 +149,22 @@ layout: default
 |**2025-05-29**|**Image Aesthetic Reasoning: A New Benchmark for Medical Image Screening with MLLMs**|Zheng Sun et.al.|[2505.23265](http://arxiv.org/abs/2505.23265)|null|
 |**2025-06-05**|**MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration**|Zhitao He et.al.|[2505.23224](http://arxiv.org/abs/2505.23224)|**[link](https://github.com/zhitao-he/mmboundary)**|
 |**2025-05-29**|**DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes**|Sungjune Park et.al.|[2505.23179](http://arxiv.org/abs/2505.23179)|null|
-|**2025-05-29**|**Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models**|Zeyu Liu et.al.|[2505.23091](http://arxiv.org/abs/2505.23091)|null|
+|**2025-06-06**|**Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models**|Zeyu Liu et.al.|[2505.23091](http://arxiv.org/abs/2505.23091)|null|
 |**2025-05-29**|**QLIP: A Dynamic Quadtree Vision Prior Enhances MLLM Performance Without Retraining**|Kyle R. Chickering et.al.|[2505.23004](http://arxiv.org/abs/2505.23004)|**[link](https://github.com/kyrochi/qlip)**|
 |**2025-05-28**|**Rhetorical Text-to-Image Generation via Two-layer Diffusion Policy Optimization**|Yuxi Zhang et.al.|[2505.22792](http://arxiv.org/abs/2505.22792)|null|
 |**2025-05-28**|**Spatial Knowledge Graph-Guided Multimodal Synthesis**|Yida Xue et.al.|[2505.22633](http://arxiv.org/abs/2505.22633)|null|
 |**2025-05-28**|**RICO: Improving Accuracy and Completeness in Image Recaptioning via Visual Reconstruction**|Yuchi Wang et.al.|[2505.22613](http://arxiv.org/abs/2505.22613)|null|
 |**2025-05-28**|**Multi-MLLM Knowledge Distillation for Out-of-Context News Detection**|Yimeng Gu et.al.|[2505.22517](http://arxiv.org/abs/2505.22517)|null|
 |**2025-05-28**|**Fostering Video Reasoning via Next-Event Prediction**|Haonan Wang et.al.|[2505.22457](http://arxiv.org/abs/2505.22457)|null|
-|**2025-05-28**|**Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**|Lai Wei et.al.|[2505.22453](http://arxiv.org/abs/2505.22453)|**[link](https://github.com/hiyouga/easyr1)**|
+|**2025-05-28**|**Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**|Lai Wei et.al.|[2505.22453](http://arxiv.org/abs/2505.22453)|**[link](https://github.com/waltonfuture/mm-upt)**|
 |**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447](http://arxiv.org/abs/2505.22447)|null|
 |**2025-05-28**|**Zooming from Context to Cue: Hierarchical Preference Optimization for Multi-Image MLLMs**|Xudong Li et.al.|[2505.22396](http://arxiv.org/abs/2505.22396)|null|
-|**2025-05-28**|**Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start**|Lai Wei et.al.|[2505.22334](http://arxiv.org/abs/2505.22334)|**[link](https://github.com/hiyouga/easyr1)**|
+|**2025-05-28**|**Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start**|Lai Wei et.al.|[2505.22334](http://arxiv.org/abs/2505.22334)|**[link](https://github.com/waltonfuture/rl-with-cold-start)**|
 |**2025-05-28**|**CADReview: Automatically Reviewing CAD Programs with Error Detection and Correction**|Jiali Chen et.al.|[2505.22304](http://arxiv.org/abs/2505.22304)|null|
 |**2025-05-29**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
 |**2025-05-28**|**SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model**|Yifan Chang et.al.|[2505.22126](http://arxiv.org/abs/2505.22126)|null|
 |**2025-05-28**|**Learning to Route Queries Across Knowledge Bases for Step-wise Retrieval-Augmented Reasoning**|Chunyi Peng et.al.|[2505.22095](http://arxiv.org/abs/2505.22095)|null|
-|**2025-05-30**|**Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task**|Yanbei Jiang et.al.|[2505.21850](http://arxiv.org/abs/2505.21850)|null|
+|**2025-05-30**|**Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task**|Yanbei Jiang et.al.|[2505.21850](http://arxiv.org/abs/2505.21850)|**[link](https://github.com/yanbeijiang/multistar)**|
 |**2025-05-27**|**OmniResponse: Online Multimodal Conversational Response Generation in Dyadic Interactions**|Cheng Luo et.al.|[2505.21724](http://arxiv.org/abs/2505.21724)|null|
 |**2025-05-27**|**PreGenie: An Agentic Framework for High-quality Visual Presentation Generation**|Xiaojie Xu et.al.|[2505.21660](http://arxiv.org/abs/2505.21660)|null|
 |**2025-05-27**|**Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation**|Ke Zhang et.al.|[2505.21653](http://arxiv.org/abs/2505.21653)|null|
@@ -127,7 +176,7 @@ layout: default
 |**2025-05-27**|**Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?**|Junhao Cheng et.al.|[2505.21374](http://arxiv.org/abs/2505.21374)|null|
 |**2025-05-27**|**MME-VideoOCR: Evaluating OCR-Based Capabilities of Multimodal LLMs in Video Scenarios**|Yang Shi et.al.|[2505.21333](http://arxiv.org/abs/2505.21333)|null|
 |**2025-05-27**|**MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs**|Jiakang Yuan et.al.|[2505.21327](http://arxiv.org/abs/2505.21327)|null|
-|**2025-05-27**|**SOLIDGEO: Measuring Multimodal Spatial Math Reasoning in Solid Geometry**|Peijie Wang et.al.|[2505.21177](http://arxiv.org/abs/2505.21177)|null|
+|**2025-06-09**|**SOLIDGEO: Measuring Multimodal Spatial Math Reasoning in Solid Geometry**|Peijie Wang et.al.|[2505.21177](http://arxiv.org/abs/2505.21177)|null|
 |**2025-05-27**|**IKMo: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model**|Yang Zhao et.al.|[2505.21146](http://arxiv.org/abs/2505.21146)|null|
 |**2025-05-27**|**Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts**|Yue Zhang et.al.|[2505.21079](http://arxiv.org/abs/2505.21079)|null|
 |**2025-05-27**|**LifeIR at the NTCIR-18 Lifelog-6 Task**|Jiahan Chen et.al.|[2505.20987](http://arxiv.org/abs/2505.20987)|null|
