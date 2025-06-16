@@ -501,7 +501,7 @@
 |**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[2504.06863](http://arxiv.org/abs/2504.06863)|null|
 |**2025-04-09**|**Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions**|Angela Lopez-Cardona et.al.|[2504.06843](http://arxiv.org/abs/2504.06843)|null|
 |**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
-|**2025-04-09**|**Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program**|Minghe Gao et.al.|[2504.06606](http://arxiv.org/abs/2504.06606)|null|
+|**2025-04-09**|**Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program**|Minghe Gao et.al.|[2504.06606](http://arxiv.org/abs/2504.06606)|**[link](https://github.com/minghehe-nobug/svip)**|
 |**2025-04-08**|**Mind the Gap: Evaluating Vision Systems in Small Data Applications**|Samuel Stevens et.al.|[2504.06486](http://arxiv.org/abs/2504.06486)|**[link](https://github.com/samuelstevens/mindthegap)**|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-05-16**|**V-MAGE: A Game Evaluation Framework for Assessing Vision-Centric Capabilities in Multimodal Large Language Models**|Xiangxi Zheng et.al.|[2504.06148](http://arxiv.org/abs/2504.06148)|**[link](https://github.com/csu-jpg/v-mage)**|
@@ -571,7 +571,7 @@
 |**2025-03-27**|**FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs**|Xiaoqin Wang et.al.|[2503.21457](http://arxiv.org/abs/2503.21457)|**[link](https://github.com/cvi-szu/facebench)**|
 |**2025-03-27**|**InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression**|Dongchen Lu et.al.|[2503.21307](http://arxiv.org/abs/2503.21307)|**[link](https://github.com/ludc506/InternVL-X)**|
 |**2025-03-26**|**ScreenLLM: Stateful Screen Schema for Efficient Action Understanding and Prediction**|Yiqiao Jin et.al.|[2503.20978](http://arxiv.org/abs/2503.20978)|null|
-|**2025-03-26**|**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**|Joonhyun Jeong et.al.|[2503.20823](http://arxiv.org/abs/2503.20823)|null|
+|**2025-03-26**|**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**|Joonhyun Jeong et.al.|[2503.20823](http://arxiv.org/abs/2503.20823)|**[link](https://github.com/naver-ai/jood)**|
 |**2025-03-26**|**MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams**|Yanpeng Sun et.al.|[2503.20745](http://arxiv.org/abs/2503.20745)|null|
 |**2025-03-26**|**Vision as LoRA**|Han Wang et.al.|[2503.20680](http://arxiv.org/abs/2503.20680)|**[link](https://github.com/hon-wong/vora)**|
 |**2025-03-26**|**Beyond Intermediate States: Explaining Visual Redundancy through Language**|Dingchen Yang et.al.|[2503.20540](http://arxiv.org/abs/2503.20540)|**[link](https://github.com/DingchenYang99/RedundancyCodebook)**|
@@ -623,7 +623,7 @@
 |**2025-03-19**|**FAVOR-Bench: A Comprehensive Benchmark for Fine-Grained Video Motion Understanding**|Chongjun Tu et.al.|[2503.14935](http://arxiv.org/abs/2503.14935)|null|
 |**2025-03-19**|**POSTA: A Go-to Framework for Customized Artistic Poster Generation**|Haoyu Chen et.al.|[2503.14908](http://arxiv.org/abs/2503.14908)|null|
 |**2025-03-19**|**Mitigating Object Hallucinations in MLLMs via Multi-Frequency Perturbations**|Shuo Li et.al.|[2503.14895](http://arxiv.org/abs/2503.14895)|null|
-|**2025-03-18**|**Image Captioning Evaluation in the Age of Multimodal LLMs: Challenges and Future Perspectives**|Sara Sarto et.al.|[2503.14604](http://arxiv.org/abs/2503.14604)|null|
+|**2025-03-18**|**Image Captioning Evaluation in the Age of Multimodal LLMs: Challenges and Future Perspectives**|Sara Sarto et.al.|[2503.14604](http://arxiv.org/abs/2503.14604)|**[link](https://github.com/aimagelab/awesome-captioning-evaluation)**|
 |**2025-03-23**|**Aligning Multimodal LLM with Human Preference: A Survey**|Tao Yu et.al.|[2503.14504](http://arxiv.org/abs/2503.14504)|**[link](https://github.com/bradyfu/awesome-multimodal-large-language-models)**|
 |**2025-03-19**|**Creation-MMBench: Assessing Context-Aware Creative Intelligence in MLLM**|Xinyu Fang et.al.|[2503.14478](http://arxiv.org/abs/2503.14478)|**[link](https://github.com/open-compass/creation-mmbench)**|
 |**2025-03-19**|**VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
