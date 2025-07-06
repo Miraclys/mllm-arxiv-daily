@@ -2,15 +2,58 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## mllm
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
+|**2025-07-03**|**Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**|Ziqi Miao et.al.|[2507.02844](http://arxiv.org/abs/2507.02844)|null|
+|**2025-07-03**|**Multimodal Mathematical Reasoning with Diverse Solving Perspective**|Wenhao Shi et.al.|[2507.02804](http://arxiv.org/abs/2507.02804)|null|
+|**2025-07-03**|**AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models**|Ziyin Zhou et.al.|[2507.02664](http://arxiv.org/abs/2507.02664)|null|
+|**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626](http://arxiv.org/abs/2507.02626)|null|
+|**2025-07-03**|**AuroraLong: Bringing RNNs Back to Efficient Open-Ended Video Understanding**|Weili Xu et.al.|[2507.02591](http://arxiv.org/abs/2507.02591)|null|
+|**2025-07-03**|**LaCo: Efficient Layer-wise Compression of Visual Tokens for Multimodal Large Language Models**|Juntao Liu et.al.|[2507.02279](http://arxiv.org/abs/2507.02279)|null|
+|**2025-07-03**|**SurgVisAgent: Multimodal Agentic Model for Versatile Surgical Visual Enhancement**|Zeyu Lei et.al.|[2507.02252](http://arxiv.org/abs/2507.02252)|null|
+|**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
+|**2025-07-02**|**Token Communication in the Era of Large Models: An Information Bottleneck-Based Approach**|Hao Wei et.al.|[2507.01728](http://arxiv.org/abs/2507.01728)|null|
+|**2025-07-02**|**AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness**|Zixin Chen et.al.|[2507.01702](http://arxiv.org/abs/2507.01702)|null|
+|**2025-07-02**|**SAILViT: Towards Robust and Generalizable Visual Backbones for MLLMs via Gradual Feature Refinement**|Weijie Yin et.al.|[2507.01643](http://arxiv.org/abs/2507.01643)|null|
+|**2025-07-02**|**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism**|Beitao Chen et.al.|[2507.01513](http://arxiv.org/abs/2507.01513)|null|
+|**2025-07-02**|**AVC-DPO: Aligned Video Captioning via Direct Preference Optimization**|Jiyang Tang et.al.|[2507.01492](http://arxiv.org/abs/2507.01492)|null|
+|**2025-07-02**|**AI Agents and Agentic AI-Navigating a Plethora of Concepts for Future Manufacturing**|Yinwang Ren et.al.|[2507.01376](http://arxiv.org/abs/2507.01376)|null|
+|**2025-06-18**|**PathCoT: Chain-of-Thought Prompting for Zero-shot Pathology Visual Reasoning**|Junjie Zhou et.al.|[2507.01029](http://arxiv.org/abs/2507.01029)|null|
+|**2025-07-01**|**MemeCMD: An Automatically Generated Chinese Multi-turn Dialogue Dataset with Contextually Retrieved Memes**|Yuheng Wang et.al.|[2507.00891](http://arxiv.org/abs/2507.00891)|null|
+|**2025-07-01**|**CAVALRY-V: A Large-Scale Generator Framework for Adversarial Attacks on Video MLLMs**|Jiaming Zhang et.al.|[2507.00817](http://arxiv.org/abs/2507.00817)|null|
+|**2025-07-01**|**Improving the Reasoning of Multi-Image Grounding in MLLMs via Reinforcement Learning**|Bob Zhang et.al.|[2507.00748](http://arxiv.org/abs/2507.00748)|null|
+|**2025-07-02**|**LLaVA-SP: Enhancing Visual Representation with Visual Spatial Tokens for MLLMs**|Haoran Lou et.al.|[2507.00505](http://arxiv.org/abs/2507.00505)|null|
+|**2025-06-30**|**Room Scene Discovery and Grouping in Unstructured Vacation Rental Image Collections**|Vignesh Ram Nithin Kappagantula et.al.|[2507.00263](http://arxiv.org/abs/2507.00263)|null|
+|**2025-06-23**|**CaughtCheating: Is Your MLLM a Good Cheating Detective? Exploring the Boundary of Visual Perception and Reasoning**|Ming Li et.al.|[2507.00045](http://arxiv.org/abs/2507.00045)|null|
+|**2025-06-30**|**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**|Xiangtai Li et.al.|[2506.24102](http://arxiv.org/abs/2506.24102)|null|
+|**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
+|**2025-07-01**|**Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs**|Yang Dai et.al.|[2506.23940](http://arxiv.org/abs/2506.23940)|null|
+|**2025-06-30**|**VAP-Diffusion: Enriching Descriptions with MLLMs for Enhanced Medical Image Generation**|Peng Huang et.al.|[2506.23641](http://arxiv.org/abs/2506.23641)|null|
+|**2025-06-30**|**Unified Multimodal Understanding via Byte-Pair Visual Encoding**|Wanpeng Zhang et.al.|[2506.23639](http://arxiv.org/abs/2506.23639)|null|
+|**2025-06-30**|**PGOV3D: Open-Vocabulary 3D Semantic Segmentation with Partial-to-Global Curriculum**|Shiqi Zhang et.al.|[2506.23607](http://arxiv.org/abs/2506.23607)|null|
+|**2025-06-30**|**MMReason: An Open-Ended Multi-Modal Multi-Step Reasoning Benchmark for MLLMs Toward AGI**|Huanjin Yao et.al.|[2506.23563](http://arxiv.org/abs/2506.23563)|null|
+|**2025-06-30**|**Reinforcement Fine-Tuning Enables MLLMs Learning Novel Tasks Stably**|Zhihao Zhang et.al.|[2506.23508](http://arxiv.org/abs/2506.23508)|null|
+|**2025-06-30**|**Evaluation of Geolocation Capabilities of Multimodal Large Language Models and Analysis of Associated Privacy Risks**|Xian Zhang et.al.|[2506.23481](http://arxiv.org/abs/2506.23481)|null|
+|**2025-07-01**|**Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification**|Xing Shen et.al.|[2506.23298](http://arxiv.org/abs/2506.23298)|null|
+|**2025-06-29**|**Token Activation Map to Visually Explain Multimodal LLMs**|Yi Li et.al.|[2506.23270](http://arxiv.org/abs/2506.23270)|null|
+|**2025-06-29**|**UrbanLLaVA: A Multi-modal Large Language Model for Urban Intelligence with Spatial Reasoning and Understanding**|Jie Feng et.al.|[2506.23219](http://arxiv.org/abs/2506.23219)|null|
+|**2025-06-29**|**MedRegion-CT: Region-Focused Multimodal LLM for Comprehensive 3D CT Report Generation**|Sunggu Kyung et.al.|[2506.23102](http://arxiv.org/abs/2506.23102)|null|
+|**2025-06-29**|**From Individuals to Interactions: Benchmarking Gender Bias in Multimodal Large Language Models from the Lens of Social Relationship**|Yue Xu et.al.|[2506.23101](http://arxiv.org/abs/2506.23101)|null|
+|**2025-07-01**|**Ovis-U1 Technical Report**|Guo-Hua Wang et.al.|[2506.23044](http://arxiv.org/abs/2506.23044)|null|
+|**2025-06-28**|**MusiXQA: Advancing Visual Music Understanding in Multimodal Large Language Models**|Jian Chen et.al.|[2506.23009](http://arxiv.org/abs/2506.23009)|null|
+|**2025-06-28**|**MARBLE: A Hard Benchmark for Multimodal Spatial Reasoning and Planning**|Yulun Jiang et.al.|[2506.22992](http://arxiv.org/abs/2506.22992)|null|
+|**2025-06-28**|**Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**|Li-Cheng Shen et.al.|[2506.22864](http://arxiv.org/abs/2506.22864)|null|
+|**2025-06-25**|**Visual-Semantic Knowledge Conflicts in Operating Rooms: Synthetic Data Curation for Surgical Risk Perception in Multimodal Large Language Models**|Weiyi Zhao et.al.|[2506.22500](http://arxiv.org/abs/2506.22500)|null|
 |**2025-06-27**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
-|**2025-06-27**|**R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning**|Biao Wang et.al.|[2506.21980](http://arxiv.org/abs/2506.21980)|null|
+|**2025-07-01**|**R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning**|Biao Wang et.al.|[2506.21980](http://arxiv.org/abs/2506.21980)|null|
 |**2025-06-27**|**Grounding-Aware Token Pruning: Recovering from Drastic Performance Drops in Visual Grounding Caused by Pruning**|Tzu-Chun Chien et.al.|[2506.21873](http://arxiv.org/abs/2506.21873)|null|
 |**2025-06-27**|**DeepTalk: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE**|Hang Shao et.al.|[2506.21864](http://arxiv.org/abs/2506.21864)|null|
 |**2025-06-26**|**FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering**|Liangyu Zhong et.al.|[2506.21710](http://arxiv.org/abs/2506.21710)|null|
@@ -24,6 +67,7 @@ layout: default
 |**2025-06-26**|**Exploring the Design Space of 3D MLLMs for CT Report Generation**|Mohammed Baharoon et.al.|[2506.21535](http://arxiv.org/abs/2506.21535)|null|
 |**2025-06-26**|**TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding**|Junwen Zhang et.al.|[2506.21393](http://arxiv.org/abs/2506.21393)|null|
 |**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
+|**2025-07-02**|**SimVecVis: A Dataset for Enhancing MLLMs in Visualization Understanding**|Can Liu et.al.|[2506.21319](http://arxiv.org/abs/2506.21319)|null|
 |**2025-06-27**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272](http://arxiv.org/abs/2506.21272)|null|
 |**2025-06-26**|**Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents**|Tianyi Men et.al.|[2506.21252](http://arxiv.org/abs/2506.21252)|null|
 |**2025-06-26**|**Task-Aware KV Compression For Cost-Effective Long Video Understanding**|Minghao Qin et.al.|[2506.21184](http://arxiv.org/abs/2506.21184)|null|
@@ -80,7 +124,7 @@ layout: default
 |**2025-06-17**|**Vela: Scalable Embeddings with Voice Large Language Models for Multimodal Retrieval**|Ruofan Hu et.al.|[2506.14445](http://arxiv.org/abs/2506.14445)|null|
 |**2025-06-17**|**From Black Boxes to Transparent Minds: Evaluating and Enhancing the Theory of Mind in Multimodal Large Language Models**|Xinyang Li et.al.|[2506.14224](http://arxiv.org/abs/2506.14224)|null|
 |**2025-06-17**|**SceneAware: Scene-Constrained Pedestrian Trajectory Prediction with LLM-Guided Walkability**|Juho Bai et.al.|[2506.14144](http://arxiv.org/abs/2506.14144)|null|
-|**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|**[link](https://github.com/liqiiiii/dllm-survey)**|
+|**2025-07-01**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|**[link](https://github.com/liqiiiii/dllm-survey)**|
 |**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705](http://arxiv.org/abs/2506.13705)|**[link](https://github.com/langfengq/timemaster)**|
 |**2025-06-16**|**DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models**|Yunnong Chen et.al.|[2506.13663](http://arxiv.org/abs/2506.13663)|null|
 |**2025-06-18**|**AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long Video Understanding**|Zhucun Xue et.al.|[2506.13589](http://arxiv.org/abs/2506.13589)|null|
@@ -106,7 +150,7 @@ layout: default
 |**2025-06-13**|**Stop learning it all to mitigate visual hallucination, Focus on the hallucination target**|Dokyoon Yoon et.al.|[2506.11417](http://arxiv.org/abs/2506.11417)|null|
 |**2025-06-11**|**Evaluating Multimodal Large Language Models on Video Captioning via Monte Carlo Tree Search**|Linhao Yu et.al.|[2506.11155](http://arxiv.org/abs/2506.11155)|null|
 |**2025-06-04**|**MANBench: Is Your Multimodal Model Smarter than Human?**|Han Zhou et.al.|[2506.11080](http://arxiv.org/abs/2506.11080)|null|
-|**2025-06-12**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967](http://arxiv.org/abs/2506.10967)|**[link](https://github.com/theia-4869/cdpruner)**|
+|**2025-07-01**|**Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs**|Qizhe Zhang et.al.|[2506.10967](http://arxiv.org/abs/2506.10967)|**[link](https://github.com/theia-4869/cdpruner)**|
 |**2025-06-18**|**Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?**|Fei Lin et.al.|[2506.10912](http://arxiv.org/abs/2506.10912)|null|
 |**2025-06-15**|**VideoDeepResearch: Long Video Understanding With Agentic Tool Using**|Huaying Yuan et.al.|[2506.10821](http://arxiv.org/abs/2506.10821)|**[link](https://github.com/yhy-2000/videodeepresearch)**|
 |**2025-06-25**|**Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning**|Yuhao Zhou et.al.|[2506.10521](http://arxiv.org/abs/2506.10521)|null|
