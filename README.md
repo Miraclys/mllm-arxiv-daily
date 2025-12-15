@@ -1,4 +1,4 @@
-## Updated on 2025.12.11
+## Updated on 2025.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1025,7 +1025,7 @@
 |**2025-03-08**|**MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation**|Haochen Xue et.al.|[2502.11903](http://arxiv.org/abs/2502.11903)|null|
 |**2025-02-17**|**Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities**|Hanbin Wang et.al.|[2502.11829](http://arxiv.org/abs/2502.11829)|**[link](https://github.com/wanghanbinpanda/codevision)**|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/mllm-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/mllm-arxiv-daily/graphs/contributors
